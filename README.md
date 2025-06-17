@@ -79,4 +79,6 @@ The **Abacus login** process is your critical first step to secure, anonymous tr
 
 
 
-Update: Fixed broken links in security policy
+
+
+Update: Updated social media and contact links
